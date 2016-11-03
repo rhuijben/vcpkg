@@ -1,0 +1,4 @@
+Source: apr-util
+Version: 1.5.4
+Build-Depends: apr, openssl
+Description: The Apr-Util library provides a number of helpful abstractions on top of the Apache Portable Runtime (APR).
